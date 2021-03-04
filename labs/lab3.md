@@ -70,6 +70,5 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 ## Question 5
 ![Question 5 answer](../images/lab3question5.png)
 
-![Question 5 answer](../images/)
-
+![Question 5 answer part 2](../images/lab3lastquestion.png)
 
