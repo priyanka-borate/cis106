@@ -22,9 +22,9 @@ What if you want to move a bunch of files from 1 directory to another. For examp
 
 ![Question 1 answer](../images/lab4part2ques1.png)
 
-![Question 1 answer](../images/lab4part2ques1part2.png)
+![Question 1 answer](../images/lab4part2ques1pt2.png)
 
-![Question 1 answer](../images/lab4part2ques1part3.png)
+![Question 1 answer](../images/lab4part2ques1pt3.png)
 
 Question 2 | Using the ? wildcard
 
