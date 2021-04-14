@@ -20,5 +20,4 @@ GNU+Linux is open source operating system
 
 * **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.
 
-![RISC OS](https://bit.ly/3dkVBop)
-
+![RISC OS](https://bit.ly/3a88KPu)
