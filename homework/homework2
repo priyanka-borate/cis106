@@ -1,37 +1,28 @@
 
 # Homework 2 | Research free software/open source software alternatives.
-**Student** Name: Your name here
+**Student** Name: Priyanka Borate
 **Course:** CIS 106
 
-## Part 1
-Watch these videos:
-* [What is Open Source?](https://bit.ly/3bQwE3z)
-* [Open Source vs. Closed Source Software](https://bit.ly/3irHu1b)
-* [Open Source Basics | Intel Software](https://bit.ly/2LBF8RK)
+Homework 2
 
-Answer the following question:
-
-1. What are the advantages of open source?
+1. What are the advantages of open source? 
+- Advantages of open source can be the price (usually free) 
+- Fast and easy distribution of information over the internet 
+- Source Code available to users 
+- Public collaboration helping each other de bug, add features, and improve performance. 
+￼
 2. What are the basic freedoms that make a software open source?
-3. Why do you think people should use the free software/open-source alternative instead of the proprietary version?
-4. Watch the following video: [Why is free software important? Richard Stallman - in INT's ENLIGHTENMENT MINUTES.](https://www.youtube.com/watch?v=ZPPikY3uLIQ) Do you agree with Richard Stallman? Do you disagree? Explain your answer. 
+- Have the ability of modifying source code, working with people 
+3. Why do you think people should use the free software/open-source alternative instead of the proprietary version
+- People should use the open source alternative so users can have more flexibility and providing endless possibilities. Meanwhile proprietary version would limit a persons creativity since the software are owned by companies/people. Not providing people to make changes, shared or built on. 
 
-## Part 2
+- 4. Do you agree with Richard Stallman? Do you disagree? Explain your answer. 
+ I agree with him, non open source softwares should not exist, due to the fact that users should be able to run, download or make changes how they want. The user should have all the power needed. If users want to distribute copies of their program to the public they can. Since programmers developed the code it is going to be secure for them and any users.  
 
-Research online for open-source or free software alternatives for the applications listed in the table below. Follow the example to know what to fill in the "answer here" section. If you have any questions, ask in slack. 
+Application Name 	  Open Source Alternative  	License Used by Alternative
+Skype                	Wire	                  GNU General Public License v3.0
+Photoshop	GIMP	      GNU                     General Public License
+Microsoft Office	    Libreoffice            	Mozilla Public License v2.0 , Apache License 2.0
+Outlook	              Thunderbird	            MPL1.1 or GPL-2.0-or-later or LGPL-2.1-or-later
+Microsoft Hyper-V     VirtualBox 	            GNU License 
 
-
-
-### Example
-| application name | open source alternative | License used by alternative|
-|------|-------|-------|
-| Google Chrome | Chromium | Multiple licenses: 3-clause BSD, MIT, LGPL, MS-PL, MPL+GPL+LGPL |
-
-
-| Application Name | Open Source Alternative | License Used by Alternative|
-|------|-------|-------|
-|Skype|answer here|answer here|
-|Photoshop|answer here|answer here|
-|Microsoft Office|answer here|answer here|
-|Outlook|answer here|answer here|
-|Microsoft Hyper-V|answer here|answer here|
