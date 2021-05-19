@@ -27,7 +27,7 @@
 Step 1 : Downloading MineCraft (can skip this step if you have MineCraft installed)
 To install the game, go to mineCraft.net/download and download the game client. 
 
-![Step 1 downloading](../images/../cis106-1/game.png)
+![Step 1 downloading](../images/..cis106-1/game.png)
 
 As you can see the website recognizes your Operating System and give a download button
 
@@ -108,7 +108,6 @@ Step  12 : Server is up !
 Step 13 : In order to play minecraft on the server , open up minecraft , click add server 
 
 ![screenshot 8](../images/../cis106-1/Picture8.png)
-
 
 Step 14: Click done will search servers up in network, click the play button when appears and youre in 
 
